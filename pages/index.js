@@ -2,7 +2,7 @@
 
 const Home = () => {
   <div>
-    Home
+    index
   </div>
 }
 
